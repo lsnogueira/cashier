@@ -1,0 +1,16 @@
+.guest-check {
+  background-color: #c3d8c3;
+  width: 100%;
+  padding: 30px;
+  border-radius: 6px;
+
+  .example-card {
+    background-color: #ffffff;
+    max-width: 400px;
+  }
+
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+}
