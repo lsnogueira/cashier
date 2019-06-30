@@ -6,7 +6,6 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./guest-check.component.scss']
 })
 export class GuestCheckComponent implements OnInit {
-
   constructor() { }
 
   ngOnInit() {
